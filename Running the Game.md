@@ -244,6 +244,13 @@ Within most stories, magic (or supernatural effects like advanced technology or 
 
 This is a good mechanic for a Soft Magic system.  Essentially you have one or more magic Specialisations within a magic using Vocation.  The Narrator would choose the CL based on the precieved difficulty of the act.  In a pure Soft Magic system, the CL should be based on how Naratively relevant the magic use is (ie a mage can't use an open door spell on every single door they come across, that destroys the tension and "fun" of the story).
 
-*Drain Mechanic*
+**Drain Mechanic**
 
-An alternative to *Magic as a Skill* is the drain mechanic.  Each spell (or spell like effect) has an IL (Injury Level).  Casting a spell could cause an Injury.  If you fall unconscience, the spell fails.
+An alternative to *Magic as a Skill* is the drain mechanic.  Each spell (or spell like effect) has an IL (Injury Level).  Casting a spell could cause an Injury.  If you fall unconscience, the spell fails.  To cast a spell:
+1. **Determine the Drain:** If your setting has a spell list, then you need to look it up, otherwise the Narrator will let you know the IL for the spell you want to cast.
+2. **Make a Casting Check:** Using the Specialisation for casting spells in your Vocation, make a Dice Roll with a CL = IL. 
+  * *Narrative Success* reduced the IL OR applies a beneficial effect to the Spell (Narrator choice).
+  * *Narrative Failure* causes complications with the spell (including potentially increasing the IL, Narrator choice)
+3. **Resolve the Spell:** Based on the result of the Casting Check, the spell is cast (unless the spell caster falls unconscience).
+
+ 
