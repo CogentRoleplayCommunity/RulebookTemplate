@@ -104,6 +104,8 @@ Within TTRPG games, **Skills** define the strengths and weaknesses of a Characte
 * **Intuition:** Sense motives.  The ability to understand another Characters motivations and intentions.  Used to better help or hinder others.
 * **Persuasion:** Negotiations.  The ability to change another Character's point of view towards your point of view.  Also used in barter, and contract negotiations.
 
+##### Specialisations
+
 **Specialisations** will either be defined in the **Story Setting** *(Ask your Narrator)*, or they can be defined by the Player.  **Specialisations** need to be closely related to your **Vocation** but define how your Character expresses their **Vocation**.  
 
 Depending on your starting **Tier** of play *(see **[Tier Progression](#tier-progression)**)* use the table above to determine your staring **Skill Points (SP)**.  These can be assigned to **Skills**, **Specialisations**, or **Vocations**.  Depending on your starting **Tier** of play, Character can only have a maximum **SP** per **Skill**, and no **Specialisation** may exceed their associated **Vocation**.

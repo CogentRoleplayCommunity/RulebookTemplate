@@ -199,9 +199,24 @@ The goal of the Investigators is to gather the evidence necessary to discover th
 
 The goal of the Conspirators is to set a goal and execute a plan to both achieve that goal, and get away with it.
 
+#### Plot Battle Map
+
+The recommended tool for Narrators to track all the actions and reactions of the Investigators and Conspirators is the *Plot Battle Map*.
+
+![Plot Battle Map](/images/RtG-InvestigationGrid.png)
+
+1. The Narrator will get the Goal for the Investigation.
+2. Starting on opposite sides of the Plot Battle Map each side of the Investigation will declare their actions and play out the Scene.
+3. Based on the outcomes of several scenes, the Narrator will move the Investigators and Contracts on the Plot Battle Map.
+4. If the two groups move into the same scene, all the Characters will share the scene.
+
 ### Etiquette
 
 Similar to [Combat Encounters](#combat-encounters), Etiquette encounters have two or more opposed groups of Characters that are attempting to harm each other.  In Etiquette encounters the goal is not to physically harm your opponents, but to marginalize and socially isolate them instead.
+
+#### Social Injuries
+
+Dependent on the Story setting, the Social Class of the Character, and other social factors, each Character will have a Reputation score.  This acts as the threshold for the amount of social damage the Character can sustain before they "die" (are cast out of their social position).
 
 ### Barter
 
@@ -233,24 +248,50 @@ Within most stories, magic (or supernatural effects like advanced technology or 
 
 * **Soft Magic:** Magic serves a thematic and narrative purpose within the story.  A defining characteristic of soft magic systems is that how the magic operates does not matter.  Characters use magic in an organic and natural way as per their Character, not based on the rules imposed on them.  An example of this would be that Unicorns have unlimited powers to remove corruption, poison, and toxins, but would never be able to cause them to any person.  Here are the guidelines to creating a soft magic system.
   1. **Magic should be thematic:** How a Character uses magic should serve the narrative feeling of the Character (ie the unicorn).
-  2. **Magic should be used naratively:** Magic shouldn't be used to hand wave away problems, but instead as that last ditch effort to serve the story (ie Gandalf only uses the exactly right spell at the exactly right time when the situation is most dire, not when it is convenient).
+  2. **Magic should be used narratively:** Magic shouldn't be used to hand wave away problems, but instead as that last ditch effort to serve the story (ie Gandalf only uses the exactly right spell at the exactly right time when the situation is most dire, not when it is convenient).
 * **Hard Magic:** Magic is a tool, with defined rules and restrictions.  As a tool, there is an inherent cost to using magic, and this needs to be reflected in your magic system.  How your magic work is critical, because it defines the limits on it's use.  Here are the guidelines to create a hard magic system.
   1. **Magic comes at a cost:** There must be a quantifiable cost for every use of magic.  This cost must be the same for all Characters at all times for the same magical effect (ie all fireball spells cost 100 Mana points to cast).
   2. **Magic is universal:** The rules define how magic is used, not the narrative.  The rules apply equally to all Characters (ie a fireball is a fireball is a fireball).
 
 #### Magic Mechanics
 
-**Magic as a Skill**
+##### Magic as a Skill
 
-This is a good mechanic for a Soft Magic system.  Essentially you have one or more magic Specialisations within a magic using Vocation.  The Narrator would choose the CL based on the precieved difficulty of the act.  In a pure Soft Magic system, the CL should be based on how Naratively relevant the magic use is (ie a mage can't use an open door spell on every single door they come across, that destroys the tension and "fun" of the story).
+There are several configurations of Magic as a Skill, but the most straight forward is to use [Specializations](/Playing%20the%20Game.md#Specialisations).  Use the standard rules around Specializations and have one Specialization per type of magic in the Story.
 
-**Drain Mechanic**
+**Gaining Magic:**
+* As per the Specialization rules.  Skill Points are spent on the Vocation and Specialization(s) used to perform Magic.
+* As with Specializations, additional equipment may be required (ie spell components) or boost your magic(ie staff of power).
 
-An alternative to *Magic as a Skill* is the drain mechanic.  Each spell (or spell like effect) has an IL (Injury Level).  Casting a spell could cause an Injury.  If you fall unconscience, the spell fails.  To cast a spell:
-1. **Determine the Drain:** If your setting has a spell list, then you need to look it up, otherwise the Narrator will let you know the IL for the spell you want to cast.
-2. **Make a Casting Check:** Using the Specialisation for casting spells in your Vocation, make a Dice Roll with a CL = IL. 
-  * *Narrative Success* reduced the IL OR applies a beneficial effect to the Spell (Narrator choice).
-  * *Narrative Failure* causes complications with the spell (including potentially increasing the IL, Narrator choice)
-3. **Resolve the Spell:** Based on the result of the Casting Check, the spell is cast (unless the spell caster falls unconscience).
+**Casting Magic:**
+* The Player declares they are using Magic, and the desired effect.
+* The Narrator sets the CL for the Dice Roll.
+* The Player makes their Dice Roll.
+* The Narrator interprets the results.
 
- 
+*Drain Mechanic*
+
+An variation to *Magic as a Skill* is the drain mechanic.  Each spell (or spell like effect) has an IL (Injury Level).  Casting a spell is an attempt to resist the damage caused by the magic (ie Mana Burn).  
+
+**Casting Magic:**
+* The Player declares they are using Magic, and the desired effect.
+* The Narrator sets the Injury Level (IL) for the Dice Roll.
+* The Player makes their Dice Roll and declares how many Narrative Successes will decrease the IL.
+* The Narrator interprets the results.
+
+##### Magic as Equipment
+
+Using the purchase rules, Characters purchase either devices that can perform magic (ie Wands, or Computers), or spells (ie scrolls, or programs).  How magic can be performed, and the conditions it can be performed in must be defined (ie Wands need to be moved around, or programs can only affect technology).
+
+**Gaining Magic:**
+* Using the standard CP rules (though an alternative to CP may be used), a Magic user will purchase the required magical equipment.
+
+**Casting Magic:**
+* The Player declares they are using Magic, and the desired effect.
+* The Narrator will check that the conditions to use magic exist, and determine the appropriate Dice Roll or effect.
+* Resolve the outcome as per standard rules.
+
+##### Magic as Money
+
+Magic has some form of power source (ie Mana, Computing Power, Ki, or Cosmic Energy).  This power source can be used to empower any standard ability beyond natural limits.
+
