@@ -97,7 +97,7 @@ When a Character takes damage they are given injuries.  Injuries are broken into
 Anytime a Character is injured, they must check if they [succeed or fail](#narrative-success-and-failure) an Endurance skill check vs the total of all injury levels the Character has.  If they will automatically fail, they fall unconscious.
 
 > Bob the boxer has endured through 6 grueling rounds, and has now been hit with a devastating uppercut.  
-> Bob previously had 2 Level 1 injuries, 1 Level 2 injury, and now has received a Level 3 injury.  Bob has a total of 7 injury levels (1 + 1 + 2 + 3).
+> Bob previously had two Level 1 injuries, one Level 2 injury, and now has received a Level 3 injury.  Bob has a total of 7 injury levels (1 + 1 + 2 + 3).
 > Bob's Endurance Dice Pool is 3D6 + 2D6(STR) + 2D6 (Endurance) or 7D6.  7D6 is not greater than 7CL, so Bob falls to the mat unconscious.
 
 #### Injury Category
@@ -147,11 +147,13 @@ Combat is when two or more Characters are attempting to use violence in an encou
 
 Combat Ranges are not absolute distances, but effective engagement ranges.  There are five combat ranges:
 
-* **Grapple:** When two or more Characters are in physical contact with each other.  Unless stated otherwise, weapons designed to be used at Thrown, Ranged, or Artillery range, can not be used in grapple range.
-* **Melee:** When two or more Characters can easily hit each other with a couple of steps (typically within the same room of a building).  
-* **Thrown:** The typically distance that a Character can throw a rock, spear, or dart effectively (typically within 50 yards/meters).  
-* **Ranged:** The effective range of a non-thrown weapon (bow, firearm, sling, etc), where distinguishing features can still be made out (typically within 100 yards/meters).  At this range and beyond, melee and grapple weapons can not be used.
-* **Artillery:** Any distance beyond Ranged range is considered Artillery.  Weapons that are effective at this range typically use spotters (Assist Action), technology (scopes), or magic (scrying) in order to lock onto a target and hit them.
+![Combat Ranges](/images/RtG%20-%20Combat%20Range.png)
+
+* **Grapple:** In physical contact with another Character.  Ranged weapons (thrown or ammo based) do not work at this range.
+* **Melee:** Within melee weapon striking distance (typically within the same room).
+* **Thrown:** Within throwing distance (typically within 50 meters or 165 feet).
+* **Ranged:** Within effective ranged weapon range (typically around 100 meters or 110 yards).  Melee weapons can not be used to attack a target at this range.
+* **Artillery:** Extremely long ranges that are reserved for siege weapons, or sniper rifles.  This range extends beyond line of sight for modern era weapons.
 
 #### Weapons and Armor
 
