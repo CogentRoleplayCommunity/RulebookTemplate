@@ -22,8 +22,11 @@ The role of the Narrator is to facilitate the flow of the Story.  You are there 
 The Action Cycle is likely going to be the main tool you use as a Narrator.  A Narrator uses an Action Cycle to determine the order of play and the consequences of each Character's Dice Rolls.  The following is the full version of an Action Cycle.  Narrators are expected to modify this to each specific Action Cycle (removing or combining steps as needed).
 
 1. **Determine Initiative:** Using one of the [Initiative](#initiative) methods, determine each active Character's Initiative score.
-2. **Declare Actions:** Starting with the Character with the smallest Initiative score, each Character what Dice Roll they will make for that Action Cycle, and the intended goal of that Dice Roll.
+2. **Declare Actions:** Starting with the Character with the smallest Initiative score, each Character declares what Dice Roll they will make for that Action Cycle, and the intended goal of that Dice Roll.
+	* A Character can "target" any Action already declared (*Example: I wish to step in front of that attack and take the blow*).
+	* A Character can not "target" potential Actions that have not already been declared (*Example: I wish to stop that guard from shooting my friend.  Your friend hasn't been targetted yet)*).
 3. **Dice Rolls:**  Starting with the Character with the highest Initiative score, each Character makes their Dice Roll and lets the Narrator know their results.
+	* If the order doesn't matter (*ie an Action hasn't been targetted*), all Characters can resolve their Dice Rolls together.
 4. **Resolve the Action Cycle:** Combining the Narrative Successes and Failures of all the Dice Rolls, the Narrator will declare the outcome of the Action Cycle, and let the Players roleplay the Scene.
 
 ### Initiative
