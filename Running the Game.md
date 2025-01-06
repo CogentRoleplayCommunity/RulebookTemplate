@@ -1,6 +1,6 @@
 # Running the Game
 
-This chapter is less of rules that Narrators must follow, and more of a toolbox of methods recommended to manager your Stories.  Narrators are encouraged to use the method that best fits the situation in the Story.
+The first and most important rule of *Cogent Roleplay* is; **The Story Comes First!**  If at any time these rules will interfere with the Players and Narrator from collaboratively telling the Story, put the rules aside and tell the Story.  This chapter is less of rules that Narrators must follow, and more of a toolbox of methods recommended to manager your Stories.  Narrators are encouraged to use the method that best fits the situation in the Story.  
 
 ## Story Structure
 
@@ -17,18 +17,16 @@ This chapter is less of rules that Narrators must follow, and more of a toolbox 
 The role of the Narrator is to facilitate the flow of the Story.  You are there to ensure the Characters have the opportunity to play their part in the grand narrative, and that everyone collaborates in the creation of the Story.  The following section details the various tools you will need to employ to help with Narration.  Later sections will cover ways to combine those tools in your Stories.
 
 <!-- Narrator Tools -->
-### Actions
+### Action Cycle
 
-An Action is initiated by a Player and will likely result in their Character having to make a Dice Roll.  The following rules apply to Actions:
+The Action Cycle is likely going to be the main tool you use as a Narrator.  A Narrator uses an Action Cycle to determine the order of play and the consequences of each Character's Dice Rolls.  The following is the full version of an Action Cycle.  Narrators are expected to modify this to each specific Action Cycle (removing or combining steps as needed).
 
-* If the Dice Pool for a Dice Roll is greater than the CL for the Action, the Action is successful.
-  * Narrative Failure does not make an Action unsuccessful, just costly, complicated, and/or with unforeseen consequences.
-* A Narrator must tell the Player if the Action is impossible (ie the Dice Pool is equal or smaller than the CL).
-* All Actions must be declared before a Dice Roll is performed.
-  * Initiative is used to allow Characters to target another Character's Actions.
-* Once declared, an Action can not be changed.  The Character will attempt the Action (even if impossible).
+1. **Determine Initiative:** Using one of the [Initiative](#initiative) methods, determine each active Character's Initiative score.
+2. **Declare Actions:** Starting with the Character with the smallest Initiative score, each Character what Dice Roll they will make for that Action Cycle, and the intended goal of that Dice Roll.
+3. **Dice Rolls:**  Starting with the Character with the highest Initiative score, each Character makes their Dice Roll and lets the Narrator know their results.
+4. **Resolve the Action Cycle:** Combining the Narrative Successes and Failures of all the Dice Rolls, the Narrator will declare the outcome of the Action Cycle, and let the Players roleplay the Scene.
 
-### Initiaitve
+### Initiative
 
 Unlike other TTRPGs, Cogent Roleplay uses a reverse order Initiative.  This is because Characters can not change Actions after they are declared, and Characters can target another Character's declared Action as part of their Action.  There are four ways to determine a Character's Initiative score:
 
