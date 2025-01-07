@@ -31,16 +31,13 @@ The Action Cycle is likely going to be the main tool you use as a Narrator.  A N
 
 ### Initiative
 
-Unlike other TTRPGs, Cogent Roleplay uses a reverse order Initiative.  This is because Characters can not change Actions after they are declared, and Characters can target another Character's declared Action as part of their Action.  There are four ways to determine a Character's Initiative score:
+Depending on what the Narrator needs for the scene, several methods may be used to determine each Character's Initiative score.  Note that multiple methods may be used in the same scene.
 
-1. **Attritional Initiative:** The Character is attempting to both endure the challenges they are facing, and are relying on muscle memory to drive their Actions.
-   * These Characters use their STR score as their Initiative.
-2. **Reactive Initiative:** The Character is relying heavily on their senses to react to threats and drive their Actions.
-   * These Characters use their RFL score as their Initiative.
-3. **Tactical Initiative:** The Character is analyzing the situation, and devising strategies to counter their opponents.
-   * These Characters use their INT score as their Initiative.
-4. **Manipulative Initiative:** The Character is attempting to control the emotional state of their opponents in better to gain an advantage in the situation.
-   * These Characters use their CHA score as their Initiative.
+1. **Attribute Score:** The Narrator will choose one of the 4 Attributes, and that becomes the Character's Initiative score.  STR when resisting fatigue (like a fist fight or pushing through extreme weather), RFL when working off muscle memory, INT when executing a plan (like a game of chess), and CHA when socially manipulating others (like assassinating a target in a marketplace).
+2. **Skill Socre:** The Narrator will choose one of the 12 core Skills, or a Character appropriate Vocation's Specialisation, and that becomes the Character's Initiative score.  Like in an ambush the attackers would use Stealth, and the defenders would use Perception.
+3. **Destiny Roll:** The Character makes a Destiny Roll and adds any modifier to get their Initiative Score.  (1-5 = 0, 6-10 = 1, 7-15 = 2, 16-20 = 3)
+ 
+
 
 #### Running Initiative
 
