@@ -123,11 +123,15 @@ There are three types of Healing that correspond to the three types of Injury Ca
 
 Destiny Rolls should be used to quickly resolve situations outside the control of the Players.  All Destiny Rolls use 1D20, and should be made in open with the impact being described to the Players.
 
-The following is a cheat sheet for how difficult an outcome is to favour the Players.
+The following is a cheat sheet to interpret a Destiny Roll (*Note that all rolls assume that a higher dice roll is more favourable for the Players).
 
-| **Difficulty (%)** | 5% | 10% | 15% | 20% | 25% | 30% | 35% | 40% | 45% | 50% | 55% | 60% | 65% | 70% | 75% | 80% | 85% | 90% | 95% | 100% |
+| **Roll** | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 | 9 | 8 | 7 | 6 | 5 | 4 | 3 | 2 | 1 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **CL** | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 | 9 | 8 | 7 | 6 | 5 | 4 | 3 | 2 | 1 |
+| **Difficulty (%)** | 5% | 10% | 15% | 20% | 25% | 30% | 35% | 40% | 45% | 50% | 55% | 60% | 65% | 70% | 75% | 80% | 85% | 90% | 95% | 100% |
+| **10** | 10 | 10 | 9 | 9 | 8 | 8 | 7 | 7 | 6 | 6 | 5 | 5 | 4 | 4 | 3 | 3 | 2 | 2 | 1 | 1 |
+| **5** | 5 | 5 | 5 | 5 | 4 | 4 | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 |
+| **4** | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 3 | 3 | 3 | 2 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | 1 |
+| **2** | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
 Destiny Rolls are Pass/Fail rolls, and do not use the Narrative Success and Failure mechanic.  Narrators are free to use Narrative Success and Failure if they wish, but the intent of a Destiny Roll is to have a quick outcome of "background" events.
 
