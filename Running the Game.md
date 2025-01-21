@@ -113,7 +113,7 @@ There are three types of Healing that correspond to the three types of Injury Ca
   * Perform a *Medical Treatment* Dice Roll with a CL equal to the sum of all Wounds of the patient Character.
   * Modify the Wound with the highest Injury Level by the Narrative Success or Failure.  If the Injury is reduced to -1, the Injury is removed.
 * **Emergency Care:** Emergency Care requires the use of a [Specialization](/Playing%20the%20Game.md#skills) and adequate surgical equipment.  A Character can not perform Emergency Care on themselves, and Emergency Care must be a declared Action.  When providing Emergency Care the Player must:
-  * Perform an *Emergency Care* Dice Roll with a CL equal to the sum of all Trauma Injuries of the patient Character.
+  * Perform an *Emergency Care* Dice Roll with a CL equal to the target Trauma Injury's Injury Level of the patient Character.
   * *Emergency Care* must target only one Trauma Injury.  Replace the Trauma Injury with a Level 3 Scar Injury.
     * Modify the Scar Injury by the Narrative Success or Failure.  The Scar Injury can not be reduced below Level 0.
   * Multiple *Emergency Care* Dice Rolls may be performed on the same Injury in the same Scene (so long as the patient still lives).
