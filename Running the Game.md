@@ -22,34 +22,32 @@ The role of the Narrator is to facilitate the flow of the Story.  You are there 
 The Action Cycle is likely going to be the main tool you use as a Narrator.  A Narrator uses an Action Cycle to determine the order of play and the consequences of each Character's Dice Rolls.  The following is the full version of an Action Cycle.  Narrators are expected to modify this to each specific Action Cycle (removing or combining steps as needed).
 
 1. **Determine Initiative:** Using one of the [Initiative](#initiative) methods, determine each active Character's Initiative score.
-2. **Declare Actions:** Starting with the Character with the smallest Initiative score, each Character declares what Dice Roll they will make for that Action Cycle, and the intended goal of that Dice Roll.
+2. **Declare Actions:** Starting with the Character with the smallest Initiative score, each Character declares what [Dice Roll](/Playing%20the%20Game.md#dice-pools) they will make for that Action Cycle, and the intended goal of that [Dice Roll](/Playing%20the%20Game.md#dice-pools).
 	* A Character can "target" any Action already declared (*Example: I wish to step in front of that attack and take the blow*).
-	* A Character can not "target" potential Actions that have not already been declared (*Example: I wish to stop that guard from shooting my friend.  Your friend hasn't been targetted yet)*).
+	* A Character can not "target" potential Actions that have not already been declared (*Example: I wish to stop that guard from shooting my friend.  Your friend hasn't been targeted yet)*).
 3. **Dice Rolls:**  Starting with the Character with the highest Initiative score, each Character makes their Dice Roll and lets the Narrator know their results.
-	* If the order doesn't matter (*ie an Action hasn't been targetted*), all Characters can resolve their Dice Rolls together.
-4. **Resolve the Action Cycle:** Combining the Narrative Successes and Failures of all the Dice Rolls, the Narrator will declare the outcome of the Action Cycle, and let the Players roleplay the Scene.
+	* If the order doesn't matter (*ie an Action hasn't been targeted*), all Characters can resolve their Dice Rolls together.
+4. **Resolve the Action Cycle:** Combining the [Narrative Successes and Failures](#narrative-success-and-failure) of all the Dice Rolls, the Narrator will declare the outcome of the Action Cycle.
+   * Let the Players roleplay the outcome of the Action Cycle.
+5. **Next Action Cycle:** Repeat the Action Cycle process until no additional Action Cycles are required.
 
 ### Initiative
 
 Depending on what the Narrator needs for the scene, several methods may be used to determine each Character's Initiative score.  Note that multiple methods may be used in the same scene.
 
 1. **Attribute Score:** The Narrator will choose one of the 4 Attributes, and that becomes the Character's Initiative score.  STR when resisting fatigue (like a fist fight or pushing through extreme weather), RFL when working off muscle memory, INT when executing a plan (like a game of chess), and CHA when socially manipulating others (like assassinating a target in a marketplace).
-2. **Skill Socre:** The Narrator will choose one of the 12 core Skills, or a Character appropriate Vocation's Specialisation, and that becomes the Character's Initiative score.  Like in an ambush the attackers would use Stealth, and the defenders would use Perception.
-3. **Destiny Roll:** The Character makes a Destiny Roll and adds any modifier to get their Initiative Score.  (1-5 = 0, 6-10 = 1, 7-15 = 2, 16-20 = 3)
- 
-
-
-#### Running Initiative
-
-1. Determine each Character's Initiative.
-   * Not every Character will use the same type of Initiative at the same time.
-   * The Initiative type may change in an Encounter based on all the Character's Actions.
-2. Starting with the Character with the smallest Initiative, have the Player declare their Action.
-   * If two or more Characters have a tied Initiative, have each Player declare their Actions one at a time, then follow up with the NPC's Actions.
-   * Consider all Characters with the same Initiative to have declared their Actions at the same time (ie they can not target each other's Actions).
-3. Have each Player determine their Character's Dice Pool, and make their Dice Roll.
-4. Gather all the results and declare the outcome of the Initiative round.
-5. Repeat until Initiative is no longer necessary.
+2. **Skill Score:** The Narrator will choose one of the 12 core Skills, or a Character appropriate Vocation's Specialization, and that becomes the Character's Initiative score.  Like in an ambush the attackers would use Stealth, and the defenders would use Perception.
+3. **Dice Roll:** The Narrator has every Character perform a Dice Roll, and the result is the Character's Initiative score.
+4. **NPC Initiative:** Instead of calculating the Initiative for each NPC, the *Narrator* can use one of the following methods.  
+   * **Destiny Roll:** Roll one *Destiny Roll* for each group of NPCs.  (1-4 = -1, 5-8 = 0, 9-12 = 1, 13-16 = 2, 17-20 = 3)
+   * **Quick Roll:** Roll 1D6 for each NPC and add -2 to the result.
+   * **Auto Distribution:** Depending on the combat type (Ambush, Player Initiated, NPC Initiated, or Ambushed) evenly distribute the NPCs between the Player Characters.
+     * *Ambush:* (Players are Ambushing the NPCs), the NPCs have an Initiative after the Players.
+     * *Player Initiated:* (Players start Initiative), starting with the Players, and alternating with the NPCs, disperse the NPCs throughout the Player's Initiative scores.  The Players always have the best Initiative.
+     * *NPC Initiated:* (NPCs start Initiative), starting with the NPCs, and alternating with the Players, disperse the NPCs throughout the Player's Initiative scores.  The NPCs always have the best Initiative.
+     * *Ambushed:* (NPCs are Ambushing the Players), the NPCs have an Initiative before the Players.
+5. **Group Initiative:** Break all Characters into 5 groups (Players, Allies, Neutrals, Unknowns, and Enemies).  The Initiative order is [Unknowns, Players & Enemies, Allies, Neutrals].  
+   * The Narrator may choose to have Players and Enemies determine Initiative within their group.
 
 ### Narrative Success and Failure
 
@@ -77,11 +75,15 @@ Each Win below the CL is considered a Narrative Failure.  It is important to rei
 * Increase the CP cost for an item or service
 * Change your attitude or emotion because of your Action (That's not a good sound...)
 
-### Injury Levels and Healing
+Some Dice Rolls are impossible.  If the CL is greater than the Dice Pool, this is considered an automatic failure.  The Player can still be asked to make the Dice Roll, but this is to determine the Narrative Failure only.
 
-When a Character takes damage they are given injuries.  Injuries are broken into three elements, an injury name, the injury category (Scrapes, Injuries, Wounds, and Trauma), and an injury Level (from 0-5).  Injuries have the following format:
+### Injuries and Healing
 
-[Name] [injury level] [penalty] *(example: Deep slash, Lvl 3, -3D6)*
+One consequence of Narrative Failure, or having Narrative Success against your Character is Injuries.  Injuries have a Category, Name, and Injury Level.
+
+* **Injury Categories:** There are three types of Injury Categories (Trivial, Wounded, and Trauma).  Trivial injuries can heal naturally, wounds need medical attention, and trauma requires emergency care to be downgraded and healed.
+* **Injury Name:** No two injuries are the same.  To denote this, every Injury has a name (*Example: Gouge, or Poison*).  Some Stories may have special rules based on Injury Name values (*Example: Poison requires the Antidote Potion or it will increase by +1 Level per Scene*)
+* **Injury Levels:** This denotes how sever the Injury is.  For each Injury Level, the Character suffers a -1D6 Equipment Modifier to all Dice Pools.
 
 | **Category** | **Injury Level** | **Penalty** | **Notes** |
 | --- | --- | --- | --- |
@@ -92,28 +94,30 @@ When a Character takes damage they are given injuries.  Injuries are broken into
 | Trauma | 4 | -4D6 | Serious Injury |
 | Trauma | 5 | -5D6 | Dead |
 
-Anytime a Character is injured, they must check if they [succeed or fail](#narrative-success-and-failure) an Endurance skill check vs the total of all injury levels the Character has.  If they will automatically fail, they fall unconscious.
+Anytime a Character is injured, they must check if they automatically [fail](#narrative-failure) an Endurance skill check vs the total of all injury levels the Character has.  If they do, they fall unconscious.
 
 > Bob the boxer has endured through 6 grueling rounds, and has now been hit with a devastating uppercut.  
-> Bob previously had two Level 1 injuries, one Level 2 injury, and now has received a Level 3 injury.  Bob has a total of 7 injury levels (1 + 1 + 2 + 3).
-> Bob's Endurance Dice Pool is 3D6 + 2D6(STR) + 2D6 (Endurance) or 7D6.  7D6 is not greater than 7CL, so Bob falls to the mat unconscious.
+> Bob previously had two Level 1 injuries, one Level 2 injury, and now has received a Level 4 injury.  Bob has a total of 8 injury levels (1 + 1 + 2 + 4).
+> Bob's Endurance Dice Pool is 3D6 + 2D6(STR) + 2D6 (Endurance) or 7D6.  7D6 is not greater than 8CL, so Bob falls to the mat unconscious.
 
-#### Injury Category
-
-There are three injury categories [Trivial, Wounded, and Trauma].  An injury is a Trivial injury if the injury level is 0 or 1, an injury is a Wound if the injury level is 2 or 3, and an injury a Traumatic injury if the injury level is 4 or greater.
 
 #### Healing
 
-There are three types of healing [Natural healing, Medical treatment, and Emergency Care].  Regardless of the type of healing, the CL for the healing check is always the total of all injury levels the patient (injured Character) has.  
+There are three types of Healing that correspond to the three types of Injury Categories.  Trivial Injuries are healed by Natural Healing, Wounds are healed by Medical Treatment, and Trauma is healed by Emergency Care.
 
-**Natural Healing:** Typically once per Chapter a Character may declare they are *Naturally Healing*.  The Character makes an Endurance skill check, with one of two outcomes:
-
-* **Narrative Success:** A Trivial injury is reduced by -1 (removing the injury if the Injury Level is less than 0) per Narrative Success.
-* **Narrative Failure:** A non-trivial injury is increased by +1 per Narrative Failure (the same injury can not be increase more than once).
-
-**Medical Treatment:** Medical treatment requires the use of a [Specialization](/Playing%20the%20Game.md#skills) and adequate medical supplies.  Typically a Character can attempt medical treatment on a patient (target Character) once per Chapter.  Narrative Success or Failure affects how long the medical treatment takes (with Narrative Failure increasing the number of days the Character needs treatment).  Medical Treatment reduces the highest non-traumatic injury by -1.
-
-**Emergency Care:** Unlike other methods of healing, emergency care can be used multiple times per Chapter on the same patient.  Each time a Character performs emergency care on a patient (target Character), they are making an injury permanent (ie sacrifice the limb to save the body).  Narrative Success reduces the injury level before it becomes permanent, Narrative Failure increases the injury level of the injury, but the Character may attempt another round of Emergency Care (or lose the patient).  Due to the high risk the patient may die, most emergency care is done as a [collaborative roll](/Playing%20the%20Game.md#assists-and-collaborations).
+* **Natural Healing:** During any Scene, the Narrator may declare that the Characters are *Naturally Healing*.  Each Player chooses:
+  * *Default:* Reduce the Trivial Injury with the highest Injury Level by -1 Level.  If any Injury is reduced to -1, the Injury is removed.
+  * *Endurance:* Perform an Endurance Dice Roll with a CL equal to the sum of all Trivial Injuries.  Modify the Trivial Injury with the highest Injury level by the Narrative Success or Failure.  If the Injury is reduced to -1, the Injury is removed.
+  * *Medical Treatment:* If the Character is receiving Medical Treatment, treat the Medical Treatment Dice Roll as an assist roll for Natural Healing (treat *Default* healing as having 1 NoS for this purpose).
+* **Medical Treatment:** Medical treatment requires the use of a [Specialization](/Playing%20the%20Game.md#skills) and adequate medical supplies.  A Character can not provide Medical Treatment to themselves, and Medical Treatment must be a declared Action.  When providing Medical Treatment the Player must:
+  * Perform a *Medical Treatment* Dice Roll with a CL equal to the sum of all Wounds of the patient Character.
+  * Modify the Wound with the highest Injury Level by the Narrative Success or Failure.  If the Injury is reduced to -1, the Injury is removed.
+* **Emergency Care:** Emergency Care requires the use of a [Specialization](/Playing%20the%20Game.md#skills) and adequate surgical equipment.  A Character can not perform Emergency Care on themselves, and Emergency Care must be a declared Action.  When providing Emergency Care the Player must:
+  * Perform an *Emergency Care* Dice Roll with a CL equal to the sum of all Trauma Injuries of the patient Character.
+  * *Emergency Care* must target only one Trauma Injury.  Replace the Trauma Injury with a Level 3 Scar Injury.
+    * Modify the Scar Injury by the Narrative Success or Failure.  The Scar Injury can not be reduced below Level 0.
+  * Multiple *Emergency Care* Dice Rolls may be performed on the same Injury in the same Scene (so long as the patient still lives).
+  * Due to the high risk the patient may die, most emergency care is done as a [collaborative roll](/Playing%20the%20Game.md#assists-and-collaborations).
 
 ### Destiny Rolls
 
