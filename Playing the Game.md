@@ -3,14 +3,15 @@
 <!-- ------------------------------------------------------------------------ -->
 The following chapter covers the basic rules that Players will need to play the game.  *Narrators* will have additional rules and tools in the *Running the Game* chapter.
 
-The first and most important rule of *Cogent Roleplay* is; **The Story Comes First!**  If at any time these rules will intefere with the Players and Narrator from collaboratively telling the Story, put the rules aside and tell the Story.  These rules are guidelines to help you tell the Story.
+The first and most important rule of *Cogent Roleplay* is; **The Story Comes First!**  If at any time these rules will interfere with the Players and Narrator from collaboratively telling the Story, put the rules aside and tell the Story.  These rules are guidelines to help you tell the Story.
 
 <!-- ------------------------------------------------------------------------ -->
 ## Character Creation
 <!-- ------------------------------------------------------------------------ -->
 
 ### Character Sheet
-<!-- Put Character Sheet Here -->
+![Character Sheet](CharacterSheet_Dev/CharacterSheet_Page_1.jpg)
+![Character Sheet](CharacterSheet_Dev/CharacterSheet_Page_2.jpg)
 
 ### Character Creation
 
@@ -18,8 +19,8 @@ The Character Creation process is the standard method to create new Cogent Chara
 
 * **Character Identity:** Using a writer's tool, create your Character narratively.
 * **Attributes:** Assign your Attribute Points.
-* **Vocations:** Choose a Vocation, and Specialisations.
-* **Skills:** Assign your Skill Points to Core Skills and Specialisations.
+* **Vocations:** Choose a Vocation, and Specializations.
+* **Skills:** Assign your Skill Points to Core Skills and Specializations.
 * **Purchase Equipment:** Assign Commerce Points, and purchase equipment (weapons, armour, tools, etc).
 * **Finishing Touches:** Assign Destiny Points, and Characteristics. Share your Character with your group and Narrator for approval.
 
@@ -72,7 +73,7 @@ Depending on your starting **Tier** of play *(see **[Tier Progression](#tier-pro
 
 Within **Cogent Roleplay**, **Vocations** fill the same role as Archetypes or Classes in other TTRPGs.  They are the profession your Character has been trained in.  It is assumed that your Character knows all the essentials of your **Vocation** to the level they are currently trained to (Apprentice for 1 rank, Journeyman fo 2 ranks, Tradesmen for 3 ranks, and Master for 4 ranks).
 
-Depending on your starting **Tier** of play *(see **[Tier Progression](#tier-progression)**)* use the table above to determine your staring **Vocation Points (VP)**.  These can only be assigned to **Vocation** ranks, and can not be used for Skills, or Specialisations.  Depending on your starting **Tier** of play, Characters can only have a maximum **VP** per **Vocation**.  
+Depending on your starting **Tier** of play *(see **[Tier Progression](#tier-progression)**)* use the table above to determine your staring **Vocation Points (VP)**.  These can only be assigned to **Vocation** ranks, and can not be used for Skills, or Specializations.  Depending on your starting **Tier** of play, Characters can only have a maximum **VP** per **Vocation**.  
 Characters will be allowed to use **Skill Points (SP)** as **VP** at any time, but the restriction for the maximum **VP** per **Vocation** remains.
 
 #### Skills
@@ -82,7 +83,7 @@ Characters will be allowed to use **Skill Points (SP)** as **VP** at any time, b
 | **SP** | 4 | 8 | 12 | 16 | 20 | 24 |
 | **Max Skill** | 0 | 1 | 2 | 3 | 4 | 4 |
 
-Within TTRPG games, **Skills** define the strengths and weaknesses of a Character and how they are intended to be played.  **Cogent Roleplay** has 12 **Skills** that are divided between the 4 **Attributes**, and several Player and Setting defined **Specialisations** associated to a Character's **Vocation**.  The 12 **Skills** are; 
+Within TTRPG games, **Skills** define the strengths and weaknesses of a Character and how they are intended to be played.  **Cogent Roleplay** has 12 **Skills** that are divided between the 4 **Attributes**, and several Player and Setting defined **Specializations** associated to a Character's **Vocation**.  The 12 **Skills** are; 
 
 **Strength:**
 * **Athletics:** Changing the world with raw power.  This covers all types of physical activities a Character would expect to overcome (lifting, running, gripping, throwing, etc).
@@ -95,7 +96,7 @@ Within TTRPG games, **Skills** define the strengths and weaknesses of a Characte
 * **Stealth:** Sneaking.  This is the fine balance between not being detected, while moving towards an objective.
 
 **Intelligence:**
-* **Crafting:** Both the construction and understanding of mechanical devices.  This covers all activites to understand, repair, and replicate simple devices.  More complex devices require Specialisations to understand and manipulate.
+* **Crafting:** Both the construction and understanding of mechanical devices.  This covers all activites to understand, repair, and replicate simple devices.  More complex devices require Specializations to understand and manipulate.
 * **General Knowledge:** The ability to recall past experiences, and apply them to the current situation.  General Knowledge differes from Vocational Knowledge in that General Knowledge is less concerned on why something works, and more on how it worked.  As an example, an old woman would know that her acking bones meant it was about to rain (General Knowledge) while a meterologist would know that a drop in air pressure meant a storm front was coming (Vocational Knowledge).
 * **Reasoning:** The ability to take evidence, and turn it into knowledge.  This includes solving puzzles, deducing hidden meaning behind a saying, or seeing connections between two points of evidence.
 
@@ -104,9 +105,11 @@ Within TTRPG games, **Skills** define the strengths and weaknesses of a Characte
 * **Intuition:** Sense motives.  The ability to understand another Characters motivations and intentions.  Used to better help or hinder others.
 * **Persuasion:** Negotiations.  The ability to change another Character's point of view towards your point of view.  Also used in barter, and contract negotiations.
 
-**Specialisations** will either be defined in the **Story Setting** *(Ask your Narrator)*, or they can be defined by the Player.  **Specialisations** need to be closely related to your **Vocation** but define how your Character expresses their **Vocation**.  
+##### Specializations
 
-Depending on your starting **Tier** of play *(see **[Tier Progression](#tier-progression)**)* use the table above to determine your staring **Skill Points (SP)**.  These can be assigned to **Skills**, **Specialisations**, or **Vocations**.  Depending on your starting **Tier** of play, Character can only have a maximum **SP** per **Skill**, and no **Specialisation** may exceed their associated **Vocation**.
+**Specializations** will either be defined in the **Story Setting** *(Ask your Narrator)*, or they can be defined by the Player.  **Specializations** need to be closely related to your **Vocation** but define how your Character expresses their **Vocation**.  
+
+Depending on your starting **Tier** of play *(see **[Tier Progression](#tier-progression)**)* use the table above to determine your staring **Skill Points (SP)**.  These can be assigned to **Skills**, **Specializations**, or **Vocations**.  Depending on your starting **Tier** of play, Character can only have a maximum **SP** per **Skill**, and no **Specialization** may exceed their associated **Vocation**.
 
 #### Equipment
 
@@ -183,7 +186,7 @@ There are six **Tiers** within **Cogent Roleplay**.  The Players and Narrator wi
 
 ### Tier Resources and Limits
 
-The following chart details the **Character Creation** resources the Player will get, and the limits to Attributes, Vocations, Skills, Specialisations, and other resources.
+The following chart details the **Character Creation** resources the Player will get, and the limits to Attributes, Vocations, Skills, Specializations, and other resources.
 
 | Tier | AP | VP | SP | Max Vocation | Max Skill | CP | Destiny |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -209,9 +212,9 @@ While Cogent is a Story Driven roleplaying game, there are times when a Player c
 The number of dice you roll for a given **Dice Pool** is a combination of the following factors:
 
 * **Base Dice:** 3D6 unless stated otherwise.
-* **Attribute:** Every *Core Skill*, *Vocation*, and *Specialisation* has an associated *Attribute*.  Add this many D6 to your **Dice Pool**
-* **Vocation:** If you are making a *Core Skill* roll, this will be 0D6, otherwise add the number of D6 for the *Specialisation*'s *Vocation* to your **Dice Pool**
-* **Skill:** Add the number of D6 for either the *Core Skill* or *Specialisation* to your **Dice Pool**
+* **Attribute:** Every *Core Skill*, *Vocation*, and *Specialization* has an associated *Attribute*.  Add this many D6 to your **Dice Pool**
+* **Vocation:** If you are making a *Core Skill* roll, this will be 0D6, otherwise add the number of D6 for the *Specialization*'s *Vocation* to your **Dice Pool**
+* **Skill:** Add the number of D6 for either the *Core Skill* or *Specialization* to your **Dice Pool**
 * **Modifiers:** There are several other factors that can add or remove D6 from your **Dice Pool**.  These include but are not limited to; Injuries, Equipment, Environmental Conditions, and/or other factors declared by the Narrator
 
 ### Narrator Declares the CL
@@ -246,7 +249,7 @@ If a Character has a **Dice Pool** that is greater than the CL, the Character is
 
 *Example*
 
-> Erin the Mage wants to strategically cast a fireball into a group of goblins.  The Narrator determines that they will need to roll a Sorcery Specialisation check.
+> Erin the Mage wants to strategically cast a fireball into a group of goblins.  The Narrator determines that they will need to roll a Sorcery Specialization check.
 >
 > * Erin's Player calculates Erin's **Dice Pool** as 5D6.  3D6 (Base) + 1D6 (Intelligence) + 1D6 (Mage Vocation) + 1D6 (Sorcery)
 > * The Narrator reminds Erin's Player about their *Wand of Power* and tells them to add +1D6 to their **Dice Pool** for a total of 6D6.  Further to this, the Narrator tells them that the goblins are completely unaware of Erin's presence and they have *Advantage* on their **Dice Pool**.

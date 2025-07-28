@@ -1,6 +1,6 @@
 # Running the Game
 
-This chapter is less of rules that Narrators must follow, and more of a toolbox of methods recommended to manager your Stories.  Narrators are encouraged to use the method that best fits the situation in the Story.
+The first and most important rule of *Cogent Roleplay* is; **The Story Comes First!**  If at any time these rules will interfere with the Players and Narrator from collaboratively telling the Story, put the rules aside and tell the Story.  This chapter is less of rules that Narrators must follow, and more of a toolbox of methods recommended to manager your Stories.  Narrators are encouraged to use the method that best fits the situation in the Story.  
 
 ## Story Structure
 
@@ -17,41 +17,37 @@ This chapter is less of rules that Narrators must follow, and more of a toolbox 
 The role of the Narrator is to facilitate the flow of the Story.  You are there to ensure the Characters have the opportunity to play their part in the grand narrative, and that everyone collaborates in the creation of the Story.  The following section details the various tools you will need to employ to help with Narration.  Later sections will cover ways to combine those tools in your Stories.
 
 <!-- Narrator Tools -->
-### Actions
+### Action Cycle
 
-An Action is initiated by a Player and will likely result in their Character having to make a Dice Roll.  The following rules apply to Actions:
+The Action Cycle is likely going to be the main tool you use as a Narrator.  A Narrator uses an Action Cycle to determine the order of play and the consequences of each Character's Dice Rolls.  The following is the full version of an Action Cycle.  Narrators are expected to modify this to each specific Action Cycle (removing or combining steps as needed).
 
-* If the Dice Pool for a Dice Roll is greater than the CL for the Action, the Action is successful.
-  * Narrative Failure does not make an Action unsuccessful, just costly, complicated, and/or with unforeseen consequences.
-* A Narrator must tell the Player if the Action is impossible (ie the Dice Pool is equal or smaller than the CL).
-* All Actions must be declared before a Dice Roll is performed.
-  * Initiative is used to allow Characters to target another Character's Actions.
-* Once declared, an Action can not be changed.  The Character will attempt the Action (even if impossible).
+1. **Determine Initiative:** Using one of the [Initiative](#initiative) methods, determine each active Character's Initiative score.
+2. **Declare Actions:** Starting with the Character with the smallest Initiative score, each Character declares what [Dice Roll](/Playing%20the%20Game.md#dice-pools) they will make for that Action Cycle, and the intended goal of that [Dice Roll](/Playing%20the%20Game.md#dice-pools).
+	* A Character can "target" any Action already declared (*Example: I wish to step in front of that attack and take the blow*).
+	* A Character can not "target" potential Actions that have not already been declared (*Example: I wish to stop that guard from shooting my friend.  Your friend hasn't been targeted yet)*).
+3. **Dice Rolls:**  Starting with the Character with the highest Initiative score, each Character makes their Dice Roll and lets the Narrator know their results.
+	* If the order doesn't matter (*ie an Action hasn't been targeted*), all Characters can resolve their Dice Rolls together.
+4. **Resolve the Action Cycle:** Combining the [Narrative Successes and Failures](#narrative-success-and-failure) of all the Dice Rolls, the Narrator will declare the outcome of the Action Cycle.
+   * Let the Players roleplay the outcome of the Action Cycle.
+5. **Next Action Cycle:** Repeat the Action Cycle process until no additional Action Cycles are required.
 
-### Initiaitve
+### Initiative
 
-Unlike other TTRPGs, Cogent Roleplay uses a reverse order Initiative.  This is because Characters can not change Actions after they are declared, and Characters can target another Character's declared Action as part of their Action.  There are four ways to determine a Character's Initiative score:
+Depending on what the Narrator needs for the scene, several methods may be used to determine each Character's Initiative score.  Note that multiple methods may be used in the same scene.
 
-1. **Attritional Initiative:** The Character is attempting to both endure the challenges they are facing, and are relying on muscle memory to drive their Actions.
-   * These Characters use their STR score as their Initiative.
-2. **Reactive Initiative:** The Character is relying heavily on their senses to react to threats and drive their Actions.
-   * These Characters use their RFL score as their Initiative.
-3. **Tactical Initiative:** The Character is analyzing the situation, and devising strategies to counter their opponents.
-   * These Characters use their INT score as their Initiative.
-4. **Manipulative Initiative:** The Character is attempting to control the emotional state of their opponents in better to gain an advantage in the situation.
-   * These Characters use their CHA score as their Initiative.
-
-#### Running Initiative
-
-1. Determine each Character's Initiative.
-   * Not every Character will use the same type of Initiative at the same time.
-   * The Initiative type may change in an Encounter based on all the Character's Actions.
-2. Starting with the Character with the smallest Initiative, have the Player declare their Action.
-   * If two or more Characters have a tied Initiative, have each Player declare their Actions one at a time, then follow up with the NPC's Actions.
-   * Consider all Characters with the same Initiative to have declared their Actions at the same time (ie they can not target each other's Actions).
-3. Have each Player determine their Character's Dice Pool, and make their Dice Roll.
-4. Gather all the results and declare the outcome of the Initiative round.
-5. Repeat until Initiative is no longer necessary.
+1. **Attribute Score:** The Narrator will choose one of the 4 Attributes, and that becomes the Character's Initiative score.  STR when resisting fatigue (like a fist fight or pushing through extreme weather), RFL when working off muscle memory, INT when executing a plan (like a game of chess), and CHA when socially manipulating others (like assassinating a target in a marketplace).
+2. **Skill Score:** The Narrator will choose one of the 12 core Skills, or a Character appropriate Vocation's Specialization, and that becomes the Character's Initiative score.  Like in an ambush the attackers would use Stealth, and the defenders would use Perception.
+3. **Dice Roll:** The Narrator has every Character perform a Dice Roll, and the result is the Character's Initiative score.
+4. **NPC Initiative:** Instead of calculating the Initiative for each NPC, the *Narrator* can use one of the following methods.  
+   * **Destiny Roll:** Roll one *Destiny Roll* for each group of NPCs.  (1-4 = -1, 5-8 = 0, 9-12 = 1, 13-16 = 2, 17-20 = 3)
+   * **Quick Roll:** Roll 1D6 for each NPC and add -2 to the result.
+   * **Auto Distribution:** Depending on the combat type (Ambush, Player Initiated, NPC Initiated, or Ambushed) evenly distribute the NPCs between the Player Characters.
+     * *Ambush:* (Players are Ambushing the NPCs), the NPCs have an Initiative after the Players.
+     * *Player Initiated:* (Players start Initiative), starting with the Players, and alternating with the NPCs, disperse the NPCs throughout the Player's Initiative scores.  The Players always have the best Initiative.
+     * *NPC Initiated:* (NPCs start Initiative), starting with the NPCs, and alternating with the Players, disperse the NPCs throughout the Player's Initiative scores.  The NPCs always have the best Initiative.
+     * *Ambushed:* (NPCs are Ambushing the Players), the NPCs have an Initiative before the Players.
+5. **Group Initiative:** Break all Characters into 5 groups (Players, Allies, Neutrals, Unknowns, and Enemies).  The Initiative order is [Unknowns, Players & Enemies, Allies, Neutrals].  
+   * The Narrator may choose to have Players and Enemies determine Initiative within their group.
 
 ### Narrative Success and Failure
 
@@ -79,11 +75,15 @@ Each Win below the CL is considered a Narrative Failure.  It is important to rei
 * Increase the CP cost for an item or service
 * Change your attitude or emotion because of your Action (That's not a good sound...)
 
-### Injury Levels and Healing
+Some Dice Rolls are impossible.  If the CL is greater than the Dice Pool, this is considered an automatic failure.  The Player can still be asked to make the Dice Roll, but this is to determine the Narrative Failure only.
 
-When a Character takes damage they are given injuries.  Injuries are broken into three elements, an injury name, the injury category (Scrapes, Injuries, Wounds, and Trauma), and an injury Level (from 0-5).  Injuries have the following format:
+### Injuries and Healing
 
-[Name] [injury level] [penalty] *(example: Deep slash, Lvl 3, -3D6)*
+One consequence of Narrative Failure, or having Narrative Success against your Character is Injuries.  Injuries have a Category, Name, and Injury Level.
+
+* **Injury Categories:** There are three types of Injury Categories (Trivial, Wounded, and Trauma).  Trivial injuries can heal naturally, wounds need medical attention, and trauma requires emergency care to be downgraded and healed.
+* **Injury Name:** No two injuries are the same.  To denote this, every Injury has a name (*Example: Gouge, or Poison*).  Some Stories may have special rules based on Injury Name values (*Example: Poison requires the Antidote Potion or it will increase by +1 Level per Scene*)
+* **Injury Levels:** This denotes how sever the Injury is.  For each Injury Level, the Character suffers a -1D6 Equipment Modifier to all Dice Pools.
 
 | **Category** | **Injury Level** | **Penalty** | **Notes** |
 | --- | --- | --- | --- |
@@ -94,38 +94,44 @@ When a Character takes damage they are given injuries.  Injuries are broken into
 | Trauma | 4 | -4D6 | Serious Injury |
 | Trauma | 5 | -5D6 | Dead |
 
-Anytime a Character is injured, they must check if they [succeed or fail](#narrative-success-and-failure) an Endurance skill check vs the total of all injury levels the Character has.  If they will automatically fail, they fall unconscious.
+Anytime a Character is injured, they must check if they automatically [fail](#narrative-failure) an Endurance skill check vs the total of all injury levels the Character has.  If they do, they fall unconscious.
 
 > Bob the boxer has endured through 6 grueling rounds, and has now been hit with a devastating uppercut.  
-> Bob previously had 2 Level 1 injuries, 1 Level 2 injury, and now has received a Level 3 injury.  Bob has a total of 7 injury levels (1 + 1 + 2 + 3).
-> Bob's Endurance Dice Pool is 3D6 + 2D6(STR) + 2D6 (Endurance) or 7D6.  7D6 is not greater than 7CL, so Bob falls to the mat unconscious.
+> Bob previously had two Level 1 injuries, one Level 2 injury, and now has received a Level 4 injury.  Bob has a total of 8 injury levels (1 + 1 + 2 + 4).
+> Bob's Endurance Dice Pool is 3D6 + 2D6(STR) + 2D6 (Endurance) or 7D6.  7D6 is not greater than 8CL, so Bob falls to the mat unconscious.
 
-#### Injury Category
-
-There are three injury categories [Trivial, Wounded, and Trauma].  An injury is a Trivial injury if the injury level is 0 or 1, an injury is a Wound if the injury level is 2 or 3, and an injury a Traumatic injury if the injury level is 4 or greater.
 
 #### Healing
 
-There are three types of healing [Natural healing, Medical treatment, and Emergency Care].  Regardless of the type of healing, the CL for the healing check is always the total of all injury levels the patient (injured Character) has.  
+There are three types of Healing that correspond to the three types of Injury Categories.  Trivial Injuries are healed by Natural Healing, Wounds are healed by Medical Treatment, and Trauma is healed by Emergency Care.
 
-**Natural Healing:** Typically once per Chapter a Character may declare they are *Naturally Healing*.  The Character makes an Endurance skill check, with one of two outcomes:
-
-* **Narrative Success:** A Trivial injury is reduced by -1 (removing the injury if the Injury Level is less than 0) per Narrative Success.
-* **Narrative Failure:** A non-trivial injury is increased by +1 per Narrative Failure (the same injury can not be increase more than once).
-
-**Medical Treatment:** Medical treatment requires the use of a [Specialization](/Playing%20the%20Game.md#skills) and adequate medical supplies.  Typically a Character can attempt medical treatment on a patient (target Character) once per Chapter.  Narrative Success or Failure affects how long the medical treatment takes (with Narrative Failure increasing the number of days the Character needs treatment).  Medical Treatment reduces the highest non-traumatic injury by -1.
-
-**Emergency Care:** Unlike other methods of healing, emergency care can be used multiple times per Chapter on the same patient.  Each time a Character performs emergency care on a patient (target Character), they are making an injury permanent (ie sacrifice the limb to save the body).  Narrative Success reduces the injury level before it becomes permanent, Narrative Failure increases the injury level of the injury, but the Character may attempt another round of Emergency Care (or lose the patient).  Due to the high risk the patient may die, most emergency care is done as a [collaborative roll](/Playing%20the%20Game.md#assists-and-collaborations).
+* **Natural Healing:** During any Scene, the Narrator may declare that the Characters are *Naturally Healing*.  Each Player chooses:
+  * *Default:* Reduce the Trivial Injury with the highest Injury Level by -1 Level.  If any Injury is reduced to -1, the Injury is removed.
+  * *Endurance:* Perform an Endurance Dice Roll with a CL equal to the sum of all Trivial Injuries.  Modify the Trivial Injury with the highest Injury level by the Narrative Success or Failure.  If the Injury is reduced to -1, the Injury is removed.
+  * *Medical Treatment:* If the Character is receiving Medical Treatment, treat the Medical Treatment Dice Roll as an assist roll for Natural Healing (treat *Default* healing as having 1 NoS for this purpose).
+* **Medical Treatment:** Medical treatment requires the use of a [Specialization](/Playing%20the%20Game.md#skills) and adequate medical supplies.  A Character can not provide Medical Treatment to themselves, and Medical Treatment must be a declared Action.  When providing Medical Treatment the Player must:
+  * Perform a *Medical Treatment* Dice Roll with a CL equal to the sum of all Wounds of the patient Character.
+  * Modify the Wound with the highest Injury Level by the Narrative Success or Failure.  If the Injury is reduced to -1, the Injury is removed.
+* **Emergency Care:** Emergency Care requires the use of a [Specialization](/Playing%20the%20Game.md#skills) and adequate surgical equipment.  A Character can not perform Emergency Care on themselves, and Emergency Care must be a declared Action.  When providing Emergency Care the Player must:
+  * Perform an *Emergency Care* Dice Roll with a CL equal to the target Trauma Injury's Injury Level of the patient Character.
+  * *Emergency Care* must target only one Trauma Injury.  Replace the Trauma Injury with a Level 2 Scar Injury.
+    * Modify the Scar Injury by the Narrative Success or Failure.  The Scar Injury can not be reduced below Level 0.
+  * Multiple *Emergency Care* Dice Rolls may be performed on the same Injury in the same Scene (so long as the patient still lives).
+  * Due to the high risk the patient may die, most emergency care is done as a [collaborative roll](/Playing%20the%20Game.md#assists-and-collaborations).
 
 ### Destiny Rolls
 
 Destiny Rolls should be used to quickly resolve situations outside the control of the Players.  All Destiny Rolls use 1D20, and should be made in open with the impact being described to the Players.
 
-The following is a cheat sheet for how difficult an outcome is to favour the Players.
+The following is a cheat sheet to interpret a Destiny Roll (*Note that all rolls assume that a higher dice roll is more favourable for the Players).
 
-| **Difficulty (%)** | 5% | 10% | 15% | 20% | 25% | 30% | 35% | 40% | 45% | 50% | 55% | 60% | 65% | 70% | 75% | 80% | 85% | 90% | 95% | 100% |
+| **Roll** | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 | 9 | 8 | 7 | 6 | 5 | 4 | 3 | 2 | 1 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **CL** | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 | 9 | 8 | 7 | 6 | 5 | 4 | 3 | 2 | 1 |
+| **Difficulty (%)** | 5% | 10% | 15% | 20% | 25% | 30% | 35% | 40% | 45% | 50% | 55% | 60% | 65% | 70% | 75% | 80% | 85% | 90% | 95% | 100% |
+| **10** | 10 | 10 | 9 | 9 | 8 | 8 | 7 | 7 | 6 | 6 | 5 | 5 | 4 | 4 | 3 | 3 | 2 | 2 | 1 | 1 |
+| **5** | 5 | 5 | 5 | 5 | 4 | 4 | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 |
+| **4** | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 3 | 3 | 3 | 2 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | 1 |
+| **2** | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
 Destiny Rolls are Pass/Fail rolls, and do not use the Narrative Success and Failure mechanic.  Narrators are free to use Narrative Success and Failure if they wish, but the intent of a Destiny Roll is to have a quick outcome of "background" events.
 
@@ -147,11 +153,13 @@ Combat is when two or more Characters are attempting to use violence in an encou
 
 Combat Ranges are not absolute distances, but effective engagement ranges.  There are five combat ranges:
 
-* **Grapple:** When two or more Characters are in physical contact with each other.  Unless stated otherwise, weapons designed to be used at Thrown, Ranged, or Artillery range, can not be used in grapple range.
-* **Melee:** When two or more Characters can easily hit each other with a couple of steps (typically within the same room of a building).  
-* **Thrown:** The typically distance that a Character can throw a rock, spear, or dart effectively (typically within 50 yards/meters).  
-* **Ranged:** The effective range of a non-thrown weapon (bow, firearm, sling, etc), where distinguishing features can still be made out (typically within 100 yards/meters).  At this range and beyond, melee and grapple weapons can not be used.
-* **Artillery:** Any distance beyond Ranged range is considered Artillery.  Weapons that are effective at this range typically use spotters (Assist Action), technology (scopes), or magic (scrying) in order to lock onto a target and hit them.
+![Combat Ranges](/images/RtG%20-%20Combat%20Range.png)
+
+* **Grapple:** In physical contact with another Character.  Ranged weapons (thrown or ammo based) do not work at this range.
+* **Melee:** Within melee weapon striking distance (typically within the same room).
+* **Thrown:** Within throwing distance (typically within 50 meters or 165 feet).
+* **Ranged:** Within effective ranged weapon range (typically around 100 meters or 110 yards).  Melee weapons can not be used to attack a target at this range.
+* **Artillery:** Extremely long ranges that are reserved for siege weapons, or sniper rifles.  This range extends beyond line of sight for modern era weapons.
 
 #### Weapons and Armor
 
@@ -199,9 +207,24 @@ The goal of the Investigators is to gather the evidence necessary to discover th
 
 The goal of the Conspirators is to set a goal and execute a plan to both achieve that goal, and get away with it.
 
+#### Plot Battle Map
+
+The recommended tool for Narrators to track all the actions and reactions of the Investigators and Conspirators is the *Plot Battle Map*.
+
+![Plot Battle Map](/images/RtG-InvestigationGrid.png)
+
+1. The Narrator will get the Goal for the Investigation.
+2. Starting on opposite sides of the Plot Battle Map each side of the Investigation will declare their actions and play out the Scene.
+3. Based on the outcomes of several scenes, the Narrator will move the Investigators and Contracts on the Plot Battle Map.
+4. If the two groups move into the same scene, all the Characters will share the scene.
+
 ### Etiquette
 
 Similar to [Combat Encounters](#combat-encounters), Etiquette encounters have two or more opposed groups of Characters that are attempting to harm each other.  In Etiquette encounters the goal is not to physically harm your opponents, but to marginalize and socially isolate them instead.
+
+#### Social Injuries
+
+Dependent on the Story setting, the Social Class of the Character, and other social factors, each Character will have a Reputation score.  This acts as the threshold for the amount of social damage the Character can sustain before they "die" (are cast out of their social position).
 
 ### Barter
 
@@ -233,17 +256,50 @@ Within most stories, magic (or supernatural effects like advanced technology or 
 
 * **Soft Magic:** Magic serves a thematic and narrative purpose within the story.  A defining characteristic of soft magic systems is that how the magic operates does not matter.  Characters use magic in an organic and natural way as per their Character, not based on the rules imposed on them.  An example of this would be that Unicorns have unlimited powers to remove corruption, poison, and toxins, but would never be able to cause them to any person.  Here are the guidelines to creating a soft magic system.
   1. **Magic should be thematic:** How a Character uses magic should serve the narrative feeling of the Character (ie the unicorn).
-  2. **Magic should be used naratively:** Magic shouldn't be used to hand wave away problems, but instead as that last ditch effort to serve the story (ie Gandalf only uses the exactly right spell at the exactly right time when the situation is most dire, not when it is convenient).
+  2. **Magic should be used narratively:** Magic shouldn't be used to hand wave away problems, but instead as that last ditch effort to serve the story (ie Gandalf only uses the exactly right spell at the exactly right time when the situation is most dire, not when it is convenient).
 * **Hard Magic:** Magic is a tool, with defined rules and restrictions.  As a tool, there is an inherent cost to using magic, and this needs to be reflected in your magic system.  How your magic work is critical, because it defines the limits on it's use.  Here are the guidelines to create a hard magic system.
   1. **Magic comes at a cost:** There must be a quantifiable cost for every use of magic.  This cost must be the same for all Characters at all times for the same magical effect (ie all fireball spells cost 100 Mana points to cast).
   2. **Magic is universal:** The rules define how magic is used, not the narrative.  The rules apply equally to all Characters (ie a fireball is a fireball is a fireball).
 
 #### Magic Mechanics
 
-**Magic as a Skill**
+##### Magic as a Skill
 
-This is a good mechanic for a Soft Magic system.  Essentially you have one or more magic Specialisations within a magic using Vocation.  The Narrator would choose the CL based on the precieved difficulty of the act.  In a pure Soft Magic system, the CL should be based on how Naratively relevant the magic use is (ie a mage can't use an open door spell on every single door they come across, that destroys the tension and "fun" of the story).
+There are several configurations of Magic as a Skill, but the most straight forward is to use [Specializations](/Playing%20the%20Game.md#Specialisations).  Use the standard rules around Specializations and have one Specialization per type of magic in the Story.
+
+**Gaining Magic:**
+* As per the Specialization rules.  Skill Points are spent on the Vocation and Specialization(s) used to perform Magic.
+* As with Specializations, additional equipment may be required (ie spell components) or boost your magic(ie staff of power).
+
+**Casting Magic:**
+* The Player declares they are using Magic, and the desired effect.
+* The Narrator sets the CL for the Dice Roll.
+* The Player makes their Dice Roll.
+* The Narrator interprets the results.
 
 *Drain Mechanic*
 
-An alternative to *Magic as a Skill* is the drain mechanic.  Each spell (or spell like effect) has an IL (Injury Level).  Casting a spell could cause an Injury.  If you fall unconscience, the spell fails.
+An variation to *Magic as a Skill* is the drain mechanic.  Each spell (or spell like effect) has an IL (Injury Level).  Casting a spell is an attempt to resist the damage caused by the magic (ie Mana Burn).  
+
+**Casting Magic:**
+* The Player declares they are using Magic, and the desired effect.
+* The Narrator sets the Injury Level (IL) for the Dice Roll.
+* The Player makes their Dice Roll and declares how many Narrative Successes will decrease the IL.
+* The Narrator interprets the results.
+
+##### Magic as Equipment
+
+Using the purchase rules, Characters purchase either devices that can perform magic (ie Wands, or Computers), or spells (ie scrolls, or programs).  How magic can be performed, and the conditions it can be performed in must be defined (ie Wands need to be moved around, or programs can only affect technology).
+
+**Gaining Magic:**
+* Using the standard CP rules (though an alternative to CP may be used), a Magic user will purchase the required magical equipment.
+
+**Casting Magic:**
+* The Player declares they are using Magic, and the desired effect.
+* The Narrator will check that the conditions to use magic exist, and determine the appropriate Dice Roll or effect.
+* Resolve the outcome as per standard rules.
+
+##### Magic as Money
+
+Magic has some form of power source (ie Mana, Computing Power, Ki, or Cosmic Energy).  This power source can be used to empower any standard ability beyond natural limits.
+
