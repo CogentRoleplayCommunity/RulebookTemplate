@@ -10,8 +10,8 @@ The first and most important rule of *Cogent Roleplay* is; **The Story Comes Fir
 <!-- ------------------------------------------------------------------------ -->
 
 ### Character Sheet
-![Character Sheet](CharacterSheet_Dev/CharacterSheet_Vertv_11_June_24_Page_1.jpg)
-![Character Sheet](CharacterSheet_Dev/CharacterSheet_Vertv_11_June_24_Page_2.jpg)
+![Character Sheet](CharacterSheet_Dev/CharacterSheet_Page_1.jpg)
+![Character Sheet](CharacterSheet_Dev/CharacterSheet_Page_2.jpg)
 
 ### Character Creation
 
